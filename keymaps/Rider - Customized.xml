@@ -1,0 +1,9 @@
+<keymap version="1" name="Rider - Customized" parent="Rider">
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl alt back_slash" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
+</keymap>
